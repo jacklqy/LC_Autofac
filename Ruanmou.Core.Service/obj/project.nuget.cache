@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gHxADLxdNdtf3S1VH6ZawD3dFXgg87carHV+dyKj0Kom9Z000LDnMWTzbXA5Wj77TN/thivmtAqokhnqZYYSCw==",
+  "dgSpecHash": "FM7m1eqHIBlie5HfbYAtlMG6lszlyeQ842hqWDDuYzqfn5canZQAkgQ4tm8WfZgWhhjyOuVzkRCFP/nzZwX6Sw==",
   "success": true,
-  "projectFilePath": "D:\\BaiduNetdiskDownload\\Autofac整合Core3.0--06\\Ruanmou.Core30-06\\Ruanmou.Core.Service\\Ruanmou.Core.Service.csproj",
+  "projectFilePath": "D:\\github\\LC_Autofac\\Ruanmou.Core.Service\\Ruanmou.Core.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRH201\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",

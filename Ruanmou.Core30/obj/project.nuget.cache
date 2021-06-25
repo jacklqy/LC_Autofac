@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MzgtCX6aAYKJwQtyey58Nf1AaNWGjYEfx/TG5YErER55gMQixJt9rHiMFMVG1Iypaasyq+0MiW2wtea8/qfFug==",
+  "dgSpecHash": "+vk3MiydlxAHZCOZSyk4dE6bxe3tYOZOkNlewcOHXzaSe0lK1Wb24QfxCkkW6zVflcLBAhdmA1Augkgm/w1rcQ==",
   "success": true,
-  "projectFilePath": "D:\\BaiduNetdiskDownload\\Autofac整合Core3.0--06\\Ruanmou.Core30-06\\Ruanmou.Core30\\Ruanmou.Core30.csproj",
+  "projectFilePath": "D:\\github\\LC_Autofac\\Ruanmou.Core30\\Ruanmou.Core30.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRH201\\.nuget\\packages\\autofac\\4.9.3\\autofac.4.9.3.nupkg.sha512",
     "C:\\Users\\BRH201\\.nuget\\packages\\autofac.configuration\\4.1.0\\autofac.configuration.4.1.0.nupkg.sha512",

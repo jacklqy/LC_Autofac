@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BaiduNetdiskDownload\\Autofac整合Core3.0--06\\Ruanmou.Core30-06\\Ruanmou.Core30\\Ruanmou.Core30.csproj": {}
+    "D:\\github\\LC_Autofac\\Ruanmou.Core30\\Ruanmou.Core30.csproj": {}
   },
   "projects": {
-    "D:\\BaiduNetdiskDownload\\Autofac整合Core3.0--06\\Ruanmou.Core30-06\\Ruanmou.Core.Interface\\Ruanmou.Core.Interface.csproj": {
+    "D:\\github\\LC_Autofac\\Ruanmou.Core.Interface\\Ruanmou.Core.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BaiduNetdiskDownload\\Autofac整合Core3.0--06\\Ruanmou.Core30-06\\Ruanmou.Core.Interface\\Ruanmou.Core.Interface.csproj",
+        "projectUniqueName": "D:\\github\\LC_Autofac\\Ruanmou.Core.Interface\\Ruanmou.Core.Interface.csproj",
         "projectName": "Ruanmou.Core.Interface",
-        "projectPath": "D:\\BaiduNetdiskDownload\\Autofac整合Core3.0--06\\Ruanmou.Core30-06\\Ruanmou.Core.Interface\\Ruanmou.Core.Interface.csproj",
+        "projectPath": "D:\\github\\LC_Autofac\\Ruanmou.Core.Interface\\Ruanmou.Core.Interface.csproj",
         "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
-        "outputPath": "D:\\BaiduNetdiskDownload\\Autofac整合Core3.0--06\\Ruanmou.Core30-06\\Ruanmou.Core.Interface\\obj\\",
+        "outputPath": "D:\\github\\LC_Autofac\\Ruanmou.Core.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -78,14 +78,14 @@
         }
       }
     },
-    "D:\\BaiduNetdiskDownload\\Autofac整合Core3.0--06\\Ruanmou.Core30-06\\Ruanmou.Core.Service\\Ruanmou.Core.Service.csproj": {
+    "D:\\github\\LC_Autofac\\Ruanmou.Core.Service\\Ruanmou.Core.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BaiduNetdiskDownload\\Autofac整合Core3.0--06\\Ruanmou.Core30-06\\Ruanmou.Core.Service\\Ruanmou.Core.Service.csproj",
+        "projectUniqueName": "D:\\github\\LC_Autofac\\Ruanmou.Core.Service\\Ruanmou.Core.Service.csproj",
         "projectName": "Ruanmou.Core.Service",
-        "projectPath": "D:\\BaiduNetdiskDownload\\Autofac整合Core3.0--06\\Ruanmou.Core30-06\\Ruanmou.Core.Service\\Ruanmou.Core.Service.csproj",
+        "projectPath": "D:\\github\\LC_Autofac\\Ruanmou.Core.Service\\Ruanmou.Core.Service.csproj",
         "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
-        "outputPath": "D:\\BaiduNetdiskDownload\\Autofac整合Core3.0--06\\Ruanmou.Core30-06\\Ruanmou.Core.Service\\obj\\",
+        "outputPath": "D:\\github\\LC_Autofac\\Ruanmou.Core.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -102,8 +102,8 @@
           "netcoreapp3.0": {
             "targetAlias": "netcoreapp3.0",
             "projectReferences": {
-              "D:\\BaiduNetdiskDownload\\Autofac整合Core3.0--06\\Ruanmou.Core30-06\\Ruanmou.Core.Interface\\Ruanmou.Core.Interface.csproj": {
-                "projectPath": "D:\\BaiduNetdiskDownload\\Autofac整合Core3.0--06\\Ruanmou.Core30-06\\Ruanmou.Core.Interface\\Ruanmou.Core.Interface.csproj"
+              "D:\\github\\LC_Autofac\\Ruanmou.Core.Interface\\Ruanmou.Core.Interface.csproj": {
+                "projectPath": "D:\\github\\LC_Autofac\\Ruanmou.Core.Interface\\Ruanmou.Core.Interface.csproj"
               }
             }
           }
@@ -150,14 +150,14 @@
         }
       }
     },
-    "D:\\BaiduNetdiskDownload\\Autofac整合Core3.0--06\\Ruanmou.Core30-06\\Ruanmou.Core30\\Ruanmou.Core30.csproj": {
+    "D:\\github\\LC_Autofac\\Ruanmou.Core30\\Ruanmou.Core30.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BaiduNetdiskDownload\\Autofac整合Core3.0--06\\Ruanmou.Core30-06\\Ruanmou.Core30\\Ruanmou.Core30.csproj",
+        "projectUniqueName": "D:\\github\\LC_Autofac\\Ruanmou.Core30\\Ruanmou.Core30.csproj",
         "projectName": "Ruanmou.Core30",
-        "projectPath": "D:\\BaiduNetdiskDownload\\Autofac整合Core3.0--06\\Ruanmou.Core30-06\\Ruanmou.Core30\\Ruanmou.Core30.csproj",
+        "projectPath": "D:\\github\\LC_Autofac\\Ruanmou.Core30\\Ruanmou.Core30.csproj",
         "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
-        "outputPath": "D:\\BaiduNetdiskDownload\\Autofac整合Core3.0--06\\Ruanmou.Core30-06\\Ruanmou.Core30\\obj\\",
+        "outputPath": "D:\\github\\LC_Autofac\\Ruanmou.Core30\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -174,8 +174,8 @@
           "netcoreapp3.0": {
             "targetAlias": "netcoreapp3.0",
             "projectReferences": {
-              "D:\\BaiduNetdiskDownload\\Autofac整合Core3.0--06\\Ruanmou.Core30-06\\Ruanmou.Core.Service\\Ruanmou.Core.Service.csproj": {
-                "projectPath": "D:\\BaiduNetdiskDownload\\Autofac整合Core3.0--06\\Ruanmou.Core30-06\\Ruanmou.Core.Service\\Ruanmou.Core.Service.csproj"
+              "D:\\github\\LC_Autofac\\Ruanmou.Core.Service\\Ruanmou.Core.Service.csproj": {
+                "projectPath": "D:\\github\\LC_Autofac\\Ruanmou.Core.Service\\Ruanmou.Core.Service.csproj"
               }
             }
           }

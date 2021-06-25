@@ -56,11 +56,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BaiduNetdiskDownload\\Autofac整合Core3.0--06\\Ruanmou.Core30-06\\Ruanmou.Core.Interface\\Ruanmou.Core.Interface.csproj",
+      "projectUniqueName": "D:\\github\\LC_Autofac\\Ruanmou.Core.Interface\\Ruanmou.Core.Interface.csproj",
       "projectName": "Ruanmou.Core.Interface",
-      "projectPath": "D:\\BaiduNetdiskDownload\\Autofac整合Core3.0--06\\Ruanmou.Core30-06\\Ruanmou.Core.Interface\\Ruanmou.Core.Interface.csproj",
+      "projectPath": "D:\\github\\LC_Autofac\\Ruanmou.Core.Interface\\Ruanmou.Core.Interface.csproj",
       "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
-      "outputPath": "D:\\BaiduNetdiskDownload\\Autofac整合Core3.0--06\\Ruanmou.Core30-06\\Ruanmou.Core.Interface\\obj\\",
+      "outputPath": "D:\\github\\LC_Autofac\\Ruanmou.Core.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",
