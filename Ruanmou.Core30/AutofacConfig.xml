@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<autofac defaultAssembly="Ruanmou.Core.Interface">
+  <components name="0">
+    <type>Ruanmou.Core.Service.TestServiceA,Ruanmou.Core.Service</type>
+    <services name="0" type="Ruanmou.Core.Interface.ITestServiceA" />
+    <injectProperties>true</injectProperties>
+  </components>
+</autofac> 
